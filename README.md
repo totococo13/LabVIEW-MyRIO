@@ -1,2 +1,2 @@
 # LabVIEW-MyRIO
-thomas CAUCAL, jules AUPHAN
+thomas CAUCAL, jules AUPHAN et NNA jessy gregory
